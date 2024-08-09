@@ -1,5 +1,4 @@
 # React Shopping Cart Task
-==========================
 
 A simple Demo E-commerce application built with React
 

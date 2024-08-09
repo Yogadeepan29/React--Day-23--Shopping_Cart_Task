@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = ({ cart, setCart }) => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light position-sticky top-0 z-2">
         <div className="container px-4 px-lg-5">
           <a className="navbar-brand fs-4 fw-semibold" href="#!">
             React Shopping
